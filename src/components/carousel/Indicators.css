@@ -1,0 +1,18 @@
+.Indicators {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    list-style: none;
+}
+
+.Indicators li {
+    margin: 2px;
+    width: 6px;
+    height: 6px;
+    border-radius: 6px;
+    border: 2px solid darkblue ;
+}
+
+.Indicator-active{
+    background-color: darkblue;
+}

@@ -1,0 +1,15 @@
+
+.NavButton:enabled {
+    background-color: darkblue;
+    color: white;
+    opacity: 20%;
+    cursor: pointer;
+}
+
+.NavButton {
+    opacity: 10%;
+}
+
+.NavButton:hover:enabled {
+    opacity: 70%;
+}
