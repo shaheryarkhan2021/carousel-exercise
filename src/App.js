@@ -6,15 +6,15 @@ import './components/carousel/Carousel.css';
 
 const carouselSrc = [
     {
-        title: "First Block",
+        title: "Firstt Block",
         images: ["https://dummyimage.com/600x300/D44E99/fff", "https://dummyimage.com/600x300/D99E99/fff"]
     },
     {
-        title: "Second Block",
+        title: "Secondt Block",
         images: ["https://dummyimage.com/600x300/D11E11/333", "https://dummyimage.com/600x300/D66E11/666"]
     },
     {
-        title: "Third Block",
+        title: "Thirdt Block",
         images: ["https://dummyimage.com/600x300/A44C44/fff", "https://dummyimage.com/600x300/AFFC44/999"]
     },
     {
